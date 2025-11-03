@@ -1,0 +1,198 @@
+<mxfile host="app.diagrams.net">
+  <diagram name="Double Linked List - Add 4, Delete 8" id="12345">
+    <mxGraphModel dx="1420" dy="700" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="1169" pageHeight="827" background="#ffffff" math="0" shadow="0">
+      <root>
+        <mxCell id="0"/>
+        <mxCell id="1" parent="0"/>
+
+        <!-- ========== BAGIAN 1: AWAL ========= -->
+        <mxCell id="title1" value="<b>1. Awal: [2, 3, 7, 8, 9]</b>" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="40" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="f1" value="Fers" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="80" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="n2a" value="2" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="110" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3a" value="3" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="110" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n7a" value="7" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="110" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n8a" value="8" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="110" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n9a" value="9" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="110" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow23a" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="125" as="sourcePoint"/>
+            <mxPoint x="140" y="125" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow37a" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="125" as="sourcePoint"/>
+            <mxPoint x="200" y="125" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow78a" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="125" as="sourcePoint"/>
+            <mxPoint x="260" y="125" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow89a" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="125" as="sourcePoint"/>
+            <mxPoint x="320" y="125" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x1" value="x" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="145" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="a1" value="a" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="145" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="y1" value="y" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="145" width="20" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- ========== BAGIAN 2: SETELAH TAMBAH 4 ========= -->
+        <mxCell id="title2" value="<b>2. Setelah tambah 4:</b>" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="200" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="f2" value="Fers" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="240" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="n2b" value="2" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="270" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3b" value="3" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="270" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n4b" value="4" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="270" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n7b" value="7" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="270" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n8b" value="8" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="270" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n9b" value="9" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="400" y="270" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow23b" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="285" as="sourcePoint"/>
+            <mxPoint x="140" y="285" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow34b" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="285" as="sourcePoint"/>
+            <mxPoint x="200" y="285" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow47b" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="285" as="sourcePoint"/>
+            <mxPoint x="260" y="285" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow78b" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="285" as="sourcePoint"/>
+            <mxPoint x="320" y="285" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow89b" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="360" y="285" as="sourcePoint"/>
+            <mxPoint x="380" y="285" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x2" value="x" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="305" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="node4lbl" value="node baru" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="305" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="a2" value="a" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="305" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="y2" value="y" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="305" width="20" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- ========== BAGIAN 3: SETELAH HAPUS 8 ========= -->
+        <mxCell id="title3" value="<b>3. Setelah hapus 8:</b>" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="50" y="360" width="200" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="f3" value="Fers" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="400" width="40" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="n2c" value="2" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="100" y="430" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n3c" value="3" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="430" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n4c" value="4" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="430" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n7c" value="7" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="430" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="n9c" value="9" style="shape=rectangle;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="430" width="40" height="30" as="geometry"/>
+        </mxCell>
+        <mxCell id="arrow23c" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="120" y="445" as="sourcePoint"/>
+            <mxPoint x="140" y="445" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow34c" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="180" y="445" as="sourcePoint"/>
+            <mxPoint x="200" y="445" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow47c" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="240" y="445" as="sourcePoint"/>
+            <mxPoint x="260" y="445" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="arrow79c" value="" style="endArrow=none;endFill=0;html=1;edgeStyle=orthogonalEdgeStyle;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="300" y="445" as="sourcePoint"/>
+            <mxPoint x="320" y="445" as="targetPoint"/>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="x3" value="x" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="160" y="465" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="node4lbl3" value="node baru" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="220" y="465" width="60" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="a3" value="a" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="280" y="465" width="20" height="20" as="geometry"/>
+        </mxCell>
+        <mxCell id="tail3" value="tail" style="text;html=1;" vertex="1" parent="1">
+          <mxGeometry x="340" y="465" width="40" height="20" as="geometry"/>
+        </mxCell>
+
+        <!-- ========== LANGKAH-LANGKAH (TEKS) ========= -->
+        <mxCell id="steps" value="<b>Langkah:</b><div>1. Tambah 4:</div><div>&amp;nbsp; &amp;nbsp;1. node baru→next = x→next</div><div>&amp;nbsp; &amp;nbsp;2. node baru→prev = x</div><div>&amp;nbsp; &amp;nbsp;3. x→next→prev = node baru</div><div>&amp;nbsp; &amp;nbsp;4. x→next = node baru</div><div><br></div><div>2. Hapus 8:</div><div>&amp;nbsp; &amp;nbsp;1. y→prev→next = y→next</div><div>&amp;nbsp; &amp;nbsp;2. y→next→prev = y→prev</div><div>&amp;nbsp; &amp;nbsp;3. delete y</div>" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;" vertex="1" parent="1">
+          <mxGeometry x="480" y="100" width="280" height="200" as="geometry"/>
+        </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+</mxfile>
